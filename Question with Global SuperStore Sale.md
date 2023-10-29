@@ -6,5 +6,5 @@ Contain 3 tables:
   - Returns (information of orders returned)
   - Salesperson (Information of SalesPerson)
     
-# **The Question:**
+# **The Question**
 *Senior manager want to know overview of business situation to give strategy in expand market and decide which will be the strategic products!*
