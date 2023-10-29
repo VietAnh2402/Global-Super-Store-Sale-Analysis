@@ -1,10 +1,9 @@
-#global_super_store_sale
-Insight and Recommendation in link gg drive: https://docs.google.com/spreadsheets/d/1f4v-nPJ3reEo6NstKXwvsO6iJNLyi0IHopUXXvXHamY/edit#gid=1826151885
+# GLOBAL SUPER STORE SALE
 
-1 Overview Description: Performance KPIs increase 24-27% YoY, in case return rate is low and tend to reduce
+##1. Overview Description: Performance KPIs increase 24-27% YoY, in case return rate is low and tend to reduce
 -> It is the righ time to reinvest and start expand in other market and reform strategic product
 
-2 The sale amount need to emphasize is Jun and 5 months end of the year in 4 year are in the same trend
+##2. The sale amount need to emphasize is Jun and 5 months end of the year in 4 year are in the same trend
 -> can see the seasonal and cycle sale here  -> Can have marketing campagin in peak time to increase brand awareness and sale amount.
 
 3 Return rate is low 5% 
