@@ -5,5 +5,6 @@ Contain 3 tables:
   - Orders (fact_order)
   - Returns (information of orders returned)
   - Salesperson (Information of SalesPerson)
+    
 **# The Question:**
 *Senior manager want to know overview of business situation to give strategy in expand market and decide which will be the strategic products!*
