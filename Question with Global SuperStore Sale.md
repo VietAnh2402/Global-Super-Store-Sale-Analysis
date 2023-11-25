@@ -1,6 +1,6 @@
 # Question with Global Super Store Sale
 ## 1.Overview about dataset
-Dataset stores sale ìnormation of SuperStore Sale over the World.
+Dataset stores sale inormation of SuperStore Sale over the World.
 Contain 3 tables:
   - Orders (fact_order)
   - Returns (information of orders returned)
